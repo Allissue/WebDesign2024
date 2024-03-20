@@ -1,0 +1,27 @@
+body
+    {
+        background-color: #191970;
+    }
+header
+    {
+        height:60px;
+    }
+img
+    {
+        height: 250px;
+    }
+h3  
+    {
+        color: #ffffff;
+        text-align: center;
+    }
+.center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+.home
+    {
+        height: 50px;
+    }

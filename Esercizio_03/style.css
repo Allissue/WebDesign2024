@@ -1,0 +1,22 @@
+body{
+    background-color: #8a2be2;
+}
+img {
+    height: 35px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }   
+h1{
+    text-align: center;
+    text-justify: auto;
+    font-size: 32px;
+}
+p{
+    text-align: center;
+    text-justify: auto;
+    line-height: 1.5;
+    font-size: 12px;
+}
