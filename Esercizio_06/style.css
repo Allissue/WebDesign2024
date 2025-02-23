@@ -16,14 +16,12 @@
 }
 #contenitore {
     width: 200px;
-    height: 100px;
-    overflow:initial;
 }
 .ciao {
     width: 100px;
     height: 50px;
     position: sticky;
-    position: -webkit-sticky;
     top: 50px;
     background-color: greenyellow;
 } 
+
